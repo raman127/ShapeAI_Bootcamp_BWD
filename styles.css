@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background: teal;
+  height: 70px;
+  padding: 30px 0;
+}
+.first {
+  align-items: center;
+  background: wheat;
+  width: 70%;
+}
+.p1 {
+  align-items: center;
+}
+.second {
+  align-items: center;
+  background: skyblue;
+  width: 70%;
+}
